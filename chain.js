@@ -25,3 +25,5 @@ const human = {
         city:'Kushtia'
     }
 }
+const user = human
+console.log(user);
