@@ -25,5 +25,7 @@ const human = {
         city:'Kushtia'
     }
 }
-const user = human
-console.log(user);
+const user = human.address.street.third
+// optional chaining
+const userss = human.address.stret?.third
+console.log(userss);
