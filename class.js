@@ -20,4 +20,4 @@ console.log(hasib);
 hasib.startSupportSession('9.00')
 hasib.creatQuiz(32);
 const prangon = new Instructor('Prangon', 'Pabna');
-console.log(prangon);
+console.log(prangon); 
